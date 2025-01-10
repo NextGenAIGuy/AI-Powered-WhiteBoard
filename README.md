@@ -29,7 +29,7 @@ This project demonstrates an **AI-Powered Whiteboard** that integrates state-of-
 ### **Steps to Run this Project**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-powered-whiteboard.git
+   git clone https://github.com/NextGenAIGuy/AI-Powered-WhiteBoard.git
    cd ai-powered-whiteboard
    ```
 2. Create Conda Environment:
