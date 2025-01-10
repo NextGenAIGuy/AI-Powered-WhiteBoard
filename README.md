@@ -1,4 +1,4 @@
-# **AI-Powered Whiteboard: A Multimodal AI Project**
+# **AI-Powered Whiteboard**
 
 ## **Overview**
 This project demonstrates an **AI-Powered Whiteboard** that integrates state-of-the-art technologies, including Python, LangChain, Vision AI, ChatBot functionalities, and advanced drawing tools. The whiteboard leverages **Gemini 2.0 Multimodal**, **llama-3.3-70b-versatile**, and **Groq** to enable seamless multimodal interactions, making it a versatile tool for various applications.
